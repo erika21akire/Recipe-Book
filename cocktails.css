@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.divider {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3.5em;
+    color: #FF6F61;
+}
+
+p {
+    font-size: 1.5em;
+    color: #6C63FF;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1.5em;
+    background-color: #FF6F61;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
